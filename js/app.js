@@ -1,0 +1,1 @@
+console.log('app.js file has been attached with index.html');

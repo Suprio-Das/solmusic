@@ -1,0 +1,97 @@
+/* color codes for top bg  */
+/* #0a183d
+title color code: #ff005a
+*/
+
+/* google fonts relation  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header styling  */
+.web-title{
+    color: #ff005a;
+    /* letter-spacing: 3px; */
+}
+#top-section-style{
+    background-color: #0a183d;
+}
+.nav-bg-color{
+    background-color: #08192d;
+}
+
+/* top section  */
+.top-section{
+    background-color: #0a183d;
+    min-height: 100vh;
+    padding: 10px;
+}
+.top-title{
+    color: #ff005a;
+}
+
+/* button style  */
+#download-btn{
+    border: none;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #fc0254;
+    color: white;
+    width: 200px;
+}
+#trial-btn{
+    border: none;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #383b70;
+    color: white;
+    width: 200px;
+    margin-left: 5px;
+}
+
+/* tracks section  */
+.tracks-title{
+    color: #0a183d;
+}
+
+/* working section  */
+.works-section{
+    background-color: #0a183d;
+}
+.working-text{
+    text-align: justify;
+}
+
+/* artists section  */
+.artists-img{
+    border-radius: 30px;
+}
+
+/* subscription section  */
+.subscription-section{
+    background-color: #0a183d;
+    padding: 40px;
+}
+.feature-list{
+    padding:50px 30px;
+    border-radius: 20px;
+    background-color: rgba(211, 211, 211, 0.185);
+}
+
+/* premium section  */
+.premium-img{
+    border-radius: 50%;
+}
+.premium-subtitle{
+    margin-top: -15px;
+}
+
+/* footer section  */
+footer{
+    background-color: #0a183d;
+}
+
+.about-title{
+    font-size: small;
+}
